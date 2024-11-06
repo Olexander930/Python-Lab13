@@ -1,0 +1,47 @@
+[
+    {
+        "country": "Україна",
+        "area": 603.6,
+        "population": 41
+    },
+    {
+        "country": "Америка",
+        "area": 9833.5,
+        "population": 331
+    },
+    {
+        "country": "Японія",
+        "area": 377.9,
+        "population": 126
+    },
+    {
+        "country": "Канада",
+        "area": 9984.7,
+        "population": 38
+    },
+    {
+        "country": "Німеччина",
+        "area": 357.4,
+        "population": 83
+    },
+    {
+        "country": "Франція",
+        "area": 551.5,
+        "population": 67
+    },
+    {
+        "country": "Іспанія",
+        "area": 506,
+        "population": 48
+    },
+    {
+        "country": "Італія",
+        "area": 302.1,
+        "population": 60
+    },
+    {
+        "country": "Польща",
+        "area": 322.6,
+        "population": 37
+    }
+]
